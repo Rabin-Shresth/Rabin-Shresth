@@ -1,4 +1,27 @@
-<p align="center">
- <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Hola+Folks!+,I'm+Rabin Shrestha..&hearts;+,;I'm+a+Computer+Science+Undergraduate,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
-</p>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<style>
+  .typing-effect {
+    overflow: hidden;
+    white-space: nowrap;
+    border-right: 0.15em solid #000; /* Change this to your desired cursor color */
+    animation: typing 2s steps(40) infinite;
+  }
+
+  @keyframes typing {
+    from { width: 0; }
+    to { width: 100%; }
+  }
+</style>
+</head>
+<body>
+  <p>
+    <span class="typing-effect">Hello, world! This is a typing effect.</span>
+  </p>
+</body>
+</html>
+
 
