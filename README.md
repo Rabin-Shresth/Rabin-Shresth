@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **shrestha.rabin1700@gmail.com**
 
-- ⚡ Fun fact **I am an Introvert Guitar Player 🎸.**
+- ⚡ Fun fact **I am an Introverted Guitar Player 🎸.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
